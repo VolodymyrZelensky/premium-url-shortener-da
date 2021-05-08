@@ -1,8 +1,9 @@
-# premium url shortener Desktop Application
-is OpenSource Qt application for sites that use *premium url shortener* script
+# 🚀 premium url shortener Desktop Application
+is OpenSource application for *premium url shortener* script 🥳
 
 ### What is premium url shortener ?
-[P.U.S](https://codecanyon.net/item/premium-url-shortener/3688135) is ... premium url shortener :|
+well [P.U.S](https://codecanyon.net/item/premium-url-shortener/3688135) is ...<br>
+premium url shortener 🤷‍♂️
 
 
 # screens
