@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>assets/favicon.ico</file>
+    <file>assets/favicon.png</file>
+    <file>assets/wave-app.png</file>
+    <file>assets/forward.png</file>
+    <file>assets/url-app.png</file>
+    <file>assets/013-twitter-1.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>assets/Tajawal-Regular.ttf</file>
+  </qresource>
+</RCC>
