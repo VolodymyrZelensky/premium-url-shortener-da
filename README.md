@@ -25,9 +25,3 @@ premium url shortener 🤷‍♂️
 C:\> qmake ./Kleeja-da.pro
 C:\> mingw32-make.exe
 ```
-
-# support
-
-Btc Wallet : `1CRkeLaGTJZgtvq8VFM1hugK47NyXJ9VZi`
-
-Link : [`1.00 USD`](https://blockchain.com/btc/payment_request?address=1CRkeLaGTJZgtvq8VFM1hugK47NyXJ9VZi&amount=0.00001782&message=support)
