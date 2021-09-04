@@ -15,7 +15,7 @@ mw::mw(QWidget *parent) : QMainWindow(parent), ui(new Ui::mw){
 
 mw::~mw(){delete ui;}
 void mw::on_btn_open_link_clicked(){QDesktopServices::openUrl(QUrl(ui->short_url->text(), QUrl::TolerantMode));}
-void mw::on_btn_developer_clicked(){QDesktopServices::openUrl(QUrl("https://twitter.com/anasybal", QUrl::TolerantMode));}
+void mw::on_btn_developer_clicked(){QDesktopServices::openUrl(QUrl("https://twitter.com/_Lil_Nickel", QUrl::TolerantMode));}
 
 bool mw::AreYouOnline(){
 	if(QProcess::execute("ping -n 1 www.google.com") == 0) return true;
